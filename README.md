@@ -1,2 +1,2 @@
 # odds-and-sods
-Miscellaneous Files
+Code samples representative of past work.
